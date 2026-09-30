@@ -25,7 +25,7 @@ This project focuses on practicing SQL window functions using PostgreSQL and the
 
 ## Project Files
 
-* `veda_day23_window_functions.sql` – SQL queries with comments explaining each question.
+* `VEDA_Technology_task_23_window_functions.sql` – SQL queries with comments explaining each question.
 * `Business_Insights.txt` – Key findings and practical uses of window functions.
 * `Outputs/` – Screenshots showing query results.
 
